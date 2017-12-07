@@ -1,4 +1,4 @@
-$(document).ready(function(){
+$(function() {
 	$(this).keydown(function(e){
 		// console.log(e.which);
 		var key = $(this).find('.key[data-key = '+e.which+']');
