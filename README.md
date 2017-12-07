@@ -1,1 +1,1 @@
-# piano
+<a href="https://efekta.github.io/piano/">Поиграть на пианино</a>
